@@ -1,0 +1,16 @@
+Six weeks before the trip starts, the VPRU system will send a reminder to the
+primary guest. When the primary guest pay the remaining balance on or before the
+cut-off date (i.e., 30 days before trip start date), the VP booking status is set to "fully
+paid". The primary guest will receive a full refund if the VP booking is cancelled on
+or before the cut-off date. Once the initial deposit refund is processed, the VP
+booking status is set to "refunded". If the VP booking is cancelled after the cut-off
+date, there is no refund and the VP booking status is set to "cancelled". If the owner
+of the group failed to act on the reminder after the cut-off date, VPRU system will
+change the VP booking status from "deposit received" to "expired" and the primary
+guest will not get a refund. VPRU system will remove the previously assigned
+vacation packages (i.e., along with their resort rooms) from all VP bookings that are
+"refunded", "cancelled" and "expired", and these VP bookings will no longer be
+associated with a vacation package. Any of these unassigned vacation packages will
+be available for other VPRU customer to book. A vacation package that is already
+assigned to a VP booking cannot be assigned to another VP booking (i.e., no
+double-booking allowed)
