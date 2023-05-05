@@ -5,5 +5,9 @@ this is a program that i made to help me break down large amounts of text rangin
 ## Installation
 to install the required libraries, run ``pip install -r requirements/txt``
 
+## Adding text
+To specify what text to summarize, paste it into ``text.txt``
+
+
 ## Usage
-to use this, simply run ``main.ipynb``
+To run the program itself, simply run ``main.ipynb``
